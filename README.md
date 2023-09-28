@@ -1,6 +1,6 @@
-# A simple example of a website
+# A simple example of a web button
 
-This is a simple example of a website. This is the result for [this tutorial]()
+This is a simple example of a web button
 
 ## Live demo
 
